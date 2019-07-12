@@ -5,6 +5,6 @@ choco install -y 7zip everything wox
 choco install -y googlechrome
 
 # Development
-choco install -y vscode vscode-icons vscode-powershell
-choco install -y git
+choco install -y vscode vscode-icons notepadplusplus
+choco install -y zeal
 choco install -y anaconda3
